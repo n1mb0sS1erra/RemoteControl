@@ -1,2 +1,2 @@
 # RemoteControl
-A script that communicates with a remote server and execute tasks anonymously
+A script that communicates with a remote server and execute tasks anonymously.
